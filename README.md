@@ -1,7 +1,7 @@
 # Dojo FizzBuzz em PHP
 
 Dojo em que fui host, em conjunto com os colegas da GAM @jremerich @felipebfernandes92 @ghertk @renatoaraujow. Onde desenvolvemos FizzBuzz para praticarmos o TDD.
-Neste caso, como o nosso foco era aprender o método TDD, não concluímos o problema todo. O framework utilizado para os testes foi PHPUnit.
+Neste caso, como o nosso foco era aprender o método TDD, não concluímos o problema todo. O framework utilizado para os testes foi  o PHPUnit.
 
 <h2>Problema:</h2>
 
